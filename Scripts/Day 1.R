@@ -1,0 +1,6 @@
+install.packages("tidyverse")
+install.packages("shiny")
+install.packages("shinythemes")
+library(tidyverse)
+library(shiny)
+library(shinythemes)
